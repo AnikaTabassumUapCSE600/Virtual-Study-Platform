@@ -31,7 +31,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         dialog = new ProgressDialog(this);
-        dialog.setMessage("Please Wait....");
+        dialog.setMessage("Please Wait...");
         auth = FirebaseAuth.getInstance();
         emailBox = findViewById(R.id.emailBox);
         passwordBox = findViewById(R.id.passwordBox);
