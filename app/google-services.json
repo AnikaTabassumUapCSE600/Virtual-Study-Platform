@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664516086482",
+    "project_id": "virtual-study-platform-32d8b",
+    "storage_bucket": "virtual-study-platform-32d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664516086482:android:a0ed0f32d58c4abc09bb0b",
+        "android_client_info": {
+          "package_name": "com.example.virtualstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664516086482-mu63lbnm700f9pusq0jsekqpfejphd06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABagt0KReT_tYmxaIVrX8h3rlwb-mRxRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664516086482-mu63lbnm700f9pusq0jsekqpfejphd06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
